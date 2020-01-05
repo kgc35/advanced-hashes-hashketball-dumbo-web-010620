@@ -124,7 +124,7 @@ def num_points_scored(desired_name)
       points_scored = player_hash[:points]
     end
   end
-  binding.pry
+  #binding.pry
   points_scored
   #check_away = hash[:away][:players].detect {|player_hash| player_hash[:player_name] == desired_name}
   #points_scored = 0;
